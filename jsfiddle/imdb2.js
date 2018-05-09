@@ -7,11 +7,10 @@ var rows = [
       "USA"
     ],
     "tags": [
-      "prison",
-      "wrongful imprisonment",
-      "escape from prison",
-      "prison cell search",
-      "first person narration"
+      "men",
+      "jeans",
+      "denim",
+      "white"
     ],
     "genres": [
       "Crime",
@@ -22,17 +21,6 @@ var rows = [
       "Morgan Freeman",
       "Bob Gunton",
       "William Sadler",
-      "Clancy Brown",
-      "Gil Bellows",
-      "Mark Rolston",
-      "James Whitmore",
-      "Jeffrey DeMunn",
-      "Larry Brandenburg",
-      "Neil Giuntoli",
-      "Brian Libby",
-      "David Proval",
-      "Joseph Ragno",
-      "Jude Ciccolella"
     ],
     "name": "The Shawshank Redemption",
     "year": 1994,
