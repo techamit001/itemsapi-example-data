@@ -12,36 +12,14 @@ var rows = [
       "denim",
       "white"
     ],
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton",
-      "William Sadler",
-      "Clancy Brown",
-      "Gil Bellows",
-      "Mark Rolston",
-      "James Whitmore",
-      "Jeffrey DeMunn",
-      "Larry Brandenburg",
-      "Neil Giuntoli",
-      "Brian Libby",
-      "David Proval",
-      "Joseph Ragno",
-      "Jude Ciccolella"
-    ],
-    "name": "The Shawshank Redemption",
-    "year": 1994,
-    "rating": 9.3,
-    "votes": 1790841,
-    "image": "https://s3-eu-west-1.amazonaws.com/example-items/movies/5940bf19-4874-41a0-b458-30b5de9ca39b-orig.jpg",
-    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-    "storyline": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red. Written by J-S-Golden",
-    "director": [
-      "Frank Darabont"
+   
+    "name": "LEVIS",
+    
+    "image": "https://www.shoppersstop.com/p-203660212_9100/colorChange?colorCode=203660212_9100&currentPosition=8&searchQueryUrl=https%3A%2F%2Fwww.shoppersstop.com%2Fmen-clothing%2Fc-A1010%3Fsort%3DnewArrival-desc%26q%3D%253AtopRated%253AinStockFlag%253Atrue%253Abrands%253ALEVIS%26startRange%3D%26endRange%3D%3Fna%7Cmenslp%7Clevis%7C6-static1%7Cmenswear&totalResultVal=169&searchPageType=category",
+    "description": "Revamp your casual collection with this printed shirt from Levis. Made from good quality fabric, this shirt stays extremely soft against the skin. It features a classic perfect fit giving it a bold structure.
+
+",
+    
     ]
   }
 ]
